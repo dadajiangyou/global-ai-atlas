@@ -1,0 +1,20 @@
+{
+  "name": "global-ai-atlas",
+  "version": "1.0.0",
+  "description": "A static visual landing page that maps the global AI model ecosystem with a premium data-atlas style.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "test": "node --test tests/page-structure.test.mjs tests/main-js.test.mjs"
+  },
+  "keywords": [
+    "ai",
+    "atlas",
+    "landing-page",
+    "data-visualization",
+    "static-site",
+    "vanilla-javascript"
+  ],
+  "license": "UNLICENSED"
+}
